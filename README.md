@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **pguru1218@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AIqoTKkjNbS9p8PVACSyVv80BY-pP3-3/view](https://drive.google.com/file/d/1AIqoTKkjNbS9p8PVACSyVv80BY-pP3-3/view)
+- 📄 Know about my experiences
+https://drive.google.com/file/d/1fJzU6XxK0mwUGc1FdXo2-V3rxsDcXycb/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
