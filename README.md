@@ -1,21 +1,29 @@
 <h1 align="center">Hi 👋, I'm Guru Prasanth</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">An AI/ML Engineer from India</h3>
 
-- 🔭 I’m currently working on **Expenses Tracker**
+- 🔭 I'm currently working on **Machine Learning & Deep Learning Projects**
 
-- 🌱 I’m currently learning **React,Node**
+- 🌱 I'm currently learning **LLMs, MLOps, and Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://guruprasanth302.github.io/Portfolio](https://guruprasanth302.github.io/Portfolio)
 
 - 📫 How to reach me **pguru1218@gmail.com**
 
 - 📄 Know about my experiences
-https://drive.google.com/file/d/1fJzU6XxK0mwUGc1FdXo2-V3rxsDcXycb/view?usp=drivesdk
+https://drive.google.com/file/d/1fJzU6XxK0mwUGc1FdXo2-V3rxsDcX<h1 align="center">Hi 👋, I'm Guru Prasanth</h1>
+<h3 align="center">An AI/ML Engineer from India</h3>
+
+- 🔭 I'm currently working on **Machine Learning & Deep Learning Projects**
+
+- 🌱 I'm currently learning **LLMs, MLOps, and Generative AI**
+
+- 👨‍💻 All of my projects are available at [https://guruprasanth302.github.io/Portfolio](https://guruprasanth302.github.io/Portfolio)
+
+- 📫 How to reach me **pguru1218@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/guru-prasanth-35209b216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guruprasanth" height="30" width="40" /></a>
-<a href="https://instagram.com/stalwart_prince_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stalwart_prince_11" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/guru4692" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="guru4692" height="30" width="40" /></a>
 </p>
 
